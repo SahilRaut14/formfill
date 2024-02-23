@@ -9,7 +9,7 @@ Along with a submit button to validate them.
 ## How to run the app
 1. clone the app
 2. open the cloned app in vs code/ android studio
-3. open the main.dart file and start run without debugging.
+3. open the main.dart file and start run without debugging.(this will build app in your avd simulator)
 4. or else run command "flutter run -d chrome" in the terminal
 5. The app will then run.
 
